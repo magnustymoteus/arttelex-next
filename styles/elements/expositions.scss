@@ -1,0 +1,25 @@
+#upcoming {
+    margin: 5em 0 0 0;
+h1 {
+    margin: 0 0 1em 0;
+}
+img {
+    margin: auto;
+}
+.slick-slide > div {
+    * {
+        margin-bottom: 10px;
+    }
+    h6 {
+        font-size: 15px;
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        outline: 0;
+    }
+    margin: auto;
+    display: grid;
+    place-items: center;
+}
+}

@@ -1,0 +1,15 @@
+@use 'global' as g;
+header {
+    #section-title {
+        @include g.section(white, #00340a, 3em);
+        h1 {
+            font-size: 5vw;
+        }
+        text-align: center;
+    }
+    nav {
+        font-size: 1em;
+        text-transform: capitalize;
+        background-color: rgba(255,118,0, 1);
+    }
+}

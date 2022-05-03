@@ -1,0 +1,15 @@
+{
+    "upcoming": [
+        {"title": "Pandemic Manifesto", "start": "Sat 09 April", "end": "Sun 24 April", "image": "upcoming/pandemic_manifesto.jpeg"},
+        {"title": "Stedelijk Lyceum Cadix", "start": "Thu 05 May", "end": "Sun 22 May"},
+        {"title": "Catharina Hell", "start": "Fri 10 June", "end": "Sat 25 June"},
+        {"title": "Masters St-Lucas Antw.", "start": "Thu 07 July", "end": "Sun 24 July"}
+    ],
+    "archived": [
+        {"title": "Kathelijne Adriaensen"},
+        {"title": "Kristien Laermans"},
+        {"title": "Not For Sale"},
+        {"title": "Immo De Vos"},
+        {"title": "Open/Closed"}
+    ]
+}

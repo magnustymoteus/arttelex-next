@@ -1,0 +1,55 @@
+main {
+    section {
+        margin-bottom: 150px;
+    }
+    #section-openingsuren {
+        h1 {
+            font-size: 4.5vw;
+        }
+        h2 {
+            font-size: 4vw;
+        }
+        h3 {
+            font-size: 3vw;
+        }
+    }
+    #section-archived-grid {
+        .archived-col {
+            img {
+                width: 65%;
+            }
+            margin: 0 0 2em 0;
+        }
+        .archived-row {
+            margin: 0 10vw 0 10vw;
+        }
+    }
+    #section-contact {
+        #contact-grid {
+            h5 {
+                font-size: 1.2rem;
+            }
+            h6 {
+                font-size: 1rem;
+                padding: 1em 0 0 0;
+            }
+        }
+        text-align: left;
+        color: white;
+        background-color: #ff7600;
+        padding: 6em 1em 6em 1em;
+        margin: -1em 0 2em 0;
+    }
+    #section-info {
+        padding: 5em 1em 5em 1em;
+        background-color: #ff7600;
+    }
+    #gevel-foto {
+        width: 90vw;
+    }
+    text-align: center;
+    margin-top: 3em;
+    h1,h2,h3,h4,h5,h6 {
+        margin-bottom: 0.5em;
+    }
+}

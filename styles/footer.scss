@@ -1,0 +1,4 @@
+@use 'global' as g;
+footer {
+    @include g.section(white, #00340a, 2em);
+}
